@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514364805711",
+    "firebase_url": "https://flutter-app-graphql-default-rtdb.firebaseio.com/",
+    "project_id": "flutter-app-graphql",
+    "storage_bucket": "flutter-app-graphql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514364805711:android:d56c824ea82c8de1d2d03a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514364805711-51qem3pac2pk0balburhgsdao51js1s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXe1lLsBPGy1f84WYNma7rfqz7nkea6gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514364805711-51qem3pac2pk0balburhgsdao51js1s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
